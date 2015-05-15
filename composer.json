@@ -1,0 +1,19 @@
+{
+    "name": "vendor/appium-helper",
+    "description": "Description of project AppiumHelper.",
+    "authors": [
+        {
+            "name": "sysinvent",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "appium/php-client": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codeception\\Module\\": "src"
+        }
+    }
+    
+}
