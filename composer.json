@@ -1,10 +1,10 @@
 {
-    "name": "vendor/codeception-appium",
+    "name": "appiumCept",
     "description": "Description of project AppiumHelper.",
     "authors": [
         {
-            "name": "sysinvent",
-            "email": "your@email.here"
+            "name": "Felix Diaz",
+            "email": "codeme@tijisoft.com"
         }
     ],
     "require": {
